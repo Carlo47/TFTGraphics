@@ -1,7 +1,7 @@
 # TFTGraphics
 
 Shows a menu on a TFT display and allows the selection of 
-everal functions by means of a pushbutton.
+several functions by means of a pushbutton.
 The graphical examples are:
 - Digital Clock
 - Analog Clock
