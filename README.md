@@ -2,7 +2,7 @@
 
 Shows a menu on a TFT display and allows the selection of 
 several functions by means of a pushbutton.
-The graphical examples are:
+## Examples
 - Digital Clock
 - Analog Clock
 - Lines
@@ -21,5 +21,5 @@ The graphical examples are:
 - Rotated Text
 - Text Sizes
 - Fonts
-
+## Code
 The folder TFTGraphics contains the full PlatformIO project.
